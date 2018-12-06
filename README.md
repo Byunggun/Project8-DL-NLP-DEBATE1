@@ -1,6 +1,6 @@
 # Project8-DL-NLP-DEBATE1
 
-![1 1](https://user-images.githubusercontent.com/43951626/49565527-ca426a80-f96a-11e8-8289-952fa8371151.jpg)
+![11790b621913de37203c0df43bb3f77c-0](https://user-images.githubusercontent.com/43951626/49566162-10003280-f96d-11e8-91ea-124a567b4e6f.jpg)
 ![1 2](https://user-images.githubusercontent.com/43951626/49565588-fbbb3600-f96a-11e8-8fa8-74daafc36f7e.jpg)
 ![1 3](https://user-images.githubusercontent.com/43951626/49565589-fc53cc80-f96a-11e8-962d-f2d7fb34e56c.jpg)
 ![1 4](https://user-images.githubusercontent.com/43951626/49565590-fc53cc80-f96a-11e8-96fb-0c8015be6d12.jpg)
