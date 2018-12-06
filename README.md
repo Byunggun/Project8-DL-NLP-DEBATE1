@@ -1,3 +1,16 @@
 # Project8-DL-NLP-DEBATE1
 
 ![1 1](https://user-images.githubusercontent.com/43951626/49565527-ca426a80-f96a-11e8-8289-952fa8371151.jpg)
+![1 2](https://user-images.githubusercontent.com/43951626/49565588-fbbb3600-f96a-11e8-8fa8-74daafc36f7e.jpg)
+![1 3](https://user-images.githubusercontent.com/43951626/49565589-fc53cc80-f96a-11e8-962d-f2d7fb34e56c.jpg)
+![1 4](https://user-images.githubusercontent.com/43951626/49565590-fc53cc80-f96a-11e8-96fb-0c8015be6d12.jpg)
+![1 5](https://user-images.githubusercontent.com/43951626/49565591-fc53cc80-f96a-11e8-9aa9-9062b93f24b2.jpg)
+![1 6](https://user-images.githubusercontent.com/43951626/49565592-fcec6300-f96a-11e8-80e3-34d60cd6ad57.jpg)
+![1 7](https://user-images.githubusercontent.com/43951626/49565593-fcec6300-f96a-11e8-9db9-621dcf6d2745.jpg)
+![1 8](https://user-images.githubusercontent.com/43951626/49565594-fcec6300-f96a-11e8-9c66-4587e091f126.jpg)
+![1 9](https://user-images.githubusercontent.com/43951626/49565596-fcec6300-f96a-11e8-9d3f-4580e413f729.jpg)
+![1 10](https://user-images.githubusercontent.com/43951626/49565597-fd84f980-f96a-11e8-8397-4f60acbebde1.jpg)
+![1 11](https://user-images.githubusercontent.com/43951626/49565598-fd84f980-f96a-11e8-9656-ffccce003a05.jpg)
+![1 12](https://user-images.githubusercontent.com/43951626/49565599-fd84f980-f96a-11e8-8009-fc4a15082ac2.jpg)
+![1 13](https://user-images.githubusercontent.com/43951626/49565600-fe1d9000-f96a-11e8-82a2-89eb91430d3a.jpg)
+![1 14](https://user-images.githubusercontent.com/43951626/49565601-fe1d9000-f96a-11e8-9fa2-44b1b69fdab3.jpg)
